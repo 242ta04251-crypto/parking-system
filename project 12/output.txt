@@ -1,0 +1,12 @@
+Time=0 ns   | Entry=0 | Exit=0 | Occupied=0 | Available=4 | Full=0 | Entered=0 | Exited=0
+Time=35 ns  | Entry=1 | Exit=0 | Occupied=1 | Available=3 | Full=0 | Entered=1 | Exited=0
+Time=45 ns  | Entry=0 | Exit=0 | Occupied=1 | Available=3 | Full=0 | Entered=0 | Exited=0
+
+Time=65 ns  | Entry=1 | Exit=0 | Occupied=2 | Available=2 | Full=0 | Entered=1 | Exited=0
+Time=75 ns  | Entry=0 | Exit=0 | Occupied=2 | Available=2 | Full=0 | Entered=0 | Exited=0
+
+Time=95 ns  | Entry=1 | Exit=0 | Occupied=3 | Available=1 | Full=0 | Entered=1 | Exited=0
+Time=105 ns | Entry=0 | Exit=0 | Occupied=3 | Available=1 | Full=0 | Entered=0 | Exited=0
+
+Time=125 ns | Entry=1 | Exit=0 | Occupied=4 | Available=0 | Full=0 | Entered=1 | Exited=0
+Time=135 ns | Entry=0 | Exit=0 | Occupied=4 | Available=0 | Full=1 | Entered=0 | Exited=0
